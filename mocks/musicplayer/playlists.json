@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "Sleep",
+    "cover": "galaxy2.jpg",
+    "songs": 52
+  },
+  {
+    "id": 1,
+    "title": "Morning Run",
+    "cover": "sunset.jpg",
+    "songs": 24
+  },
+  {
+    "id": 2,
+    "title": "Wake up Call",
+    "cover": "mountain.jpg",
+    "songs": 84
+  },
+  {
+    "id": 3,
+    "title": "Meditation",
+    "cover": "meditation.jpg",
+    "songs": 32
+  },
+  {
+    "id": 4,
+    "title": "Wake up, Get up",
+    "cover": "shouting.jpg",
+    "songs": 14
+  },
+  {
+    "id": 5,
+    "title": "Autumn Colors",
+    "cover": "autumn.jpg",
+    "songs": 104
+  },
+  {
+    "id": 6,
+    "title": "Gym Music",
+    "cover": "gym.jpg",
+    "songs": 33
+  },
+  {
+    "id": 7,
+    "title": "Sleep",
+    "cover": "galaxy2.jpg",
+    "songs": 52
+  },
+  {
+    "id": 8,
+    "title": "Sleep",
+    "cover": "galaxy2.jpg",
+    "songs": 52
+  }
+]

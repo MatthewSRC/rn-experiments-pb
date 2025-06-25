@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "title": "Yoga",
+    "duration": 480,
+    "cover": "yoga.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Sleep",
+    "duration": 28800,
+    "cover": "sleep.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Relax",
+    "duration": 600,
+    "cover": "relax.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Energy",
+    "duration": 3600,
+    "cover": "energy.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Gym",
+    "duration": 7200,
+    "cover": "gym.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Running",
+    "duration": 1800,
+    "cover": "running.jpg"
+  }
+]

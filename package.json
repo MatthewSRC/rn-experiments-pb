@@ -1,0 +1,54 @@
+{
+  "name": "animations",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "start": "expo start --dev-client",
+    "prebuild": "expo prebuild",
+    "lint": "eslint \"**/*.{js,jsx,ts,tsx}\" && prettier -c \"**/*.{js,jsx,ts,tsx,json}\"",
+    "format": "eslint \"**/*.{js,jsx,ts,tsx}\" --fix && prettier \"**/*.{js,jsx,ts,tsx,json}\" --write",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "@shopify/react-native-skia": "1.5.0",
+    "expo": "~52.0.47",
+    "expo-blur": "~14.0.3",
+    "expo-constants": "~17.0.8",
+    "expo-file-system": "~18.0.12",
+    "expo-linear-gradient": "~14.0.2",
+    "expo-linking": "~7.0.5",
+    "expo-router": "~4.0.21",
+    "expo-sensors": "~14.0.2",
+    "expo-status-bar": "~2.0.1",
+    "nativewind": "latest",
+    "react": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-mmkv": "^3.2.0",
+    "react-native-reanimated": "~3.16.1",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-screens": "~4.4.0",
+    "react-native-svg": "15.8.0",
+    "rive-react-native": "^9.3.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.3.12",
+    "@typescript-eslint/eslint-plugin": "^7.7.0",
+    "@typescript-eslint/parser": "^7.7.0",
+    "eslint": "^8.57.0",
+    "eslint-config-universe": "^12.0.1",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "react-native-svg-transformer": "^1.5.1",
+    "tailwindcss": "^3.4.0",
+    "typescript": "~5.3.3"
+  },
+  "eslintConfig": {
+    "extends": "universe/native",
+    "root": true
+  },
+  "main": "expo-router/entry"
+}
