@@ -31,9 +31,9 @@ export default function Index() {
         <Text className="text-lg font-bold color-black">Mental Health</Text>
       </Pressable>
       <Pressable
-        onPress={() => router.navigate('payments')}
+        onPress={() => router.navigate('gyrocard')}
         className="h-12 w-40 items-center justify-center rounded-lg bg-white">
-        <Text className="text-lg font-bold color-black">Payments</Text>
+        <Text className="text-lg font-bold color-black">Gyrocard</Text>
       </Pressable>
       <Pressable
         onPress={() => router.navigate('vpn')}
